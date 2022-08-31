@@ -7,7 +7,7 @@ Descrição do projeto
 Portfolio feito na linguagem java
 
 ## Apps
-mini projetos
+Mini projetos
 
 ## Autor
 Allan Richard De Souza Gomes
