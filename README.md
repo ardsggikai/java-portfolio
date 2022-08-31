@@ -3,7 +3,7 @@
 
 # Portfolio de projetos
 
-Descrição do projeto
+## Descrição do projeto
 Portfolio feito na linguagem java
 
 ## Apps
