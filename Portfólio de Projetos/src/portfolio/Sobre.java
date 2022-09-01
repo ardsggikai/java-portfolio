@@ -75,7 +75,7 @@ public class Sobre extends JDialog {
 		lblGithub.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent e) {
-				link("https://github.com/ardsggikai/senactatuape/tree/master/senactat-aulas-ti/UC9/Aulas/eclipse-workspace/Portf%C3%B3lio%20de%20Projetos/bin");
+				link("https://github.com/ardsggikai/java-portfolio/tree/main/Portf%C3%B3lio%20de%20Projetos/src");
 			}
 		});
 		lblGithub.setToolTipText("GitHub");
