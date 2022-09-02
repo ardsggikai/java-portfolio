@@ -14,8 +14,8 @@ Allan Richard De Souza Gomes
 https://www.linkedin.com/in/ardsggikai/
 
 ## Apresentação do Portfolio
-![]()
-![tela](https://github.com/ardsggikai/java-portfolio/blob/main/img/Portfolio.png)
+![]()![tela](https://github.com/ardsggikai/java-portfolio/blob/main/img/Portfolio.png)
+
 
 ## Demonstração (Instruções para instalação)
 - é necessário ter o Java Versão 17 ou superior instalado 
