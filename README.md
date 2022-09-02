@@ -22,3 +22,4 @@ https://www.linkedin.com/in/ardsggikai/
 - releases, baixar o executável .jar
 - No windows basta clicar 2x com o mouse
 - No Linux transformar o arquivo em executável
+a
